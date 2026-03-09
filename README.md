@@ -17,4 +17,4 @@ A React-based smart clock application built for Raspberry Pi designed for contin
 - REST APIs
 
 ## Goal
-Create a lightweight smart display optimized for low-power hardware.
+Build a lightweight smart display optimized for low-power hardware.
